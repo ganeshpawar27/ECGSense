@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+ecg_images/
+ecg_images.zip
